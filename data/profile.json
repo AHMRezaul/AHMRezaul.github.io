@@ -1,0 +1,21 @@
+{
+  "name": "A H M Rezaul Karim",
+  "role": "Ph.D. Student in Computer Science",
+  "affiliation": "George Mason University",
+  "photo": "assets/photo.jpg",
+  "tagline": "Trustworthy Health AI · Clinical NLP · Large Language Models",
+  "bio": "I am a Ph.D. student in Computer Science at **George Mason University**, advised by [Prof. Özlem Uzuner](https://www.gmu.edu/profiles/ouzuner). My research lies at the intersection of **Artificial Intelligence, Natural Language Processing, and Healthcare**, with a focus on making AI systems more reliable, interpretable, and useful in clinical settings.\n\nI work with **large language models (LLMs), retrieval-augmented generation (RAG), and multimodal AI** to bridge the gap between complex clinical data and actionable information. My research spans clinical information extraction, medical vision-language understanding, trustworthy AI, and healthcare data interoperability. I am particularly interested in developing AI systems that can ground their predictions in evidence rather than simply generate plausible answers.\n\nBefore joining George Mason, I earned my B.Sc. in Computer Science and Engineering from the **Islamic University of Technology (IUT)**, where my research journey began with natural language processing for low-resource languages, particularly Bangla.\n\n**What drives my research is a simple question: How can we build AI that healthcare professionals can genuinely trust?** I enjoy tackling that question from both theoretical and practical perspectives, turning research ideas into end-to-end systems that address real-world challenges.",
+  "interests": [
+    "Clinical NLP",
+    "Large Language Models",
+    "Retrieval-Augmented Generation",
+    "Multimodal AI",
+    "Clinical Data Interoperability",
+    "Low-Resource NLP"
+  ],
+  "email": "akarim9@gmu.edu",
+  "linkedin": "https://www.linkedin.com/in/a-h-m-rezaul-karim/",
+  "scholar": "https://scholar.google.com/citations?user=QqB3TnoAAAAJ&hl=en",
+  "github": "https://github.com/AHMRezaul",
+  "researchgate": "https://www.researchgate.net/profile/A-H-M-Rezaul-Karim?ev=hdr_xprf"
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "title": "EHR Standardization to OMOP",
+    "description": "An AI-based framework for mapping heterogeneous EHR schemas and clinical concepts to the OMOP Common Data Model and generating validated data-transformation procedures.",
+    "tags": [
+      "LLMs",
+      "OMOP CDM",
+      "PyTorch",
+      "Interoperability"
+    ],
+    "status": "Ongoing",
+    "links": [],
+    "icon": "fa-database"
+  },
+  {
+    "title": "Clinical Dialogue Summarization",
+    "description": "An LLM pipeline that converts doctor–patient dialogues into section-aware structured clinical notes, using QLoRA-fine-tuned 70B-scale models and retrieval-augmented generation.",
+    "tags": [
+      "QLoRA",
+      "RAG",
+      "PyTorch",
+      "Clinical NLP"
+    ],
+    "status": "Ongoing",
+    "links": [
+      {
+        "label": "Code",
+        "url": "https://github.com/AHMRezaul/MEDIQA-CHAT"
+      }
+    ],
+    "icon": "fa-comments"
+  },
+  {
+    "title": "ScienceRAG",
+    "description": "A retrieval-augmented generation system that combines real-time scientific paper retrieval with LLM generation for question answering and fact checking, using query rewriting, knowledge graphs, and hybrid databases for multi-hop research queries.",
+    "tags": [
+      "Llama-3.1",
+      "GPT-4",
+      "ChromaDB",
+      "Knowledge Graphs"
+    ],
+    "status": "",
+    "links": [
+      {
+        "label": "Code",
+        "url": "https://github.com/AHMRezaul/ScienceRAG"
+      }
+    ],
+    "icon": "fa-book-open-reader"
+  }
+]

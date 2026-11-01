@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Site Admin</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+  <header class="nav scrolled">
+    <div class="wrap nav-inner">
+      <span class="brand"><i class="fa-solid fa-pen-ruler"></i> Site Admin</span>
+      <div class="nav-actions">
+        <a class="btn ghost sm" href="../" target="_blank">View site <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+        <button id="logout" class="btn ghost sm" hidden>Sign out</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap admin">
+    <!-- Sign-in -->
+    <section id="login" class="panel">
+      <h2><i class="fa-solid fa-key"></i> Connect to GitHub</h2>
+      <p class="muted">
+        This page edits the JSON files in your site's repository and saves each change as a commit.
+        Nothing works without your personal access token, which is stored only in this browser.
+      </p>
+      <form id="login-form" class="form">
+        <label>Repository <input name="repo" required placeholder="owner/repo" value="AHMRezaul/AHMRezaul.github.io"></label>
+        <label>Branch <small>(leave empty for the default branch)</small><input name="branch" placeholder="main"></label>
+        <label>Fine-grained access token
+          <input name="token" type="password" required autocomplete="off" placeholder="github_pat_…">
+        </label>
+        <label class="check"><input type="checkbox" name="remember"> Remember on this device</label>
+        <button class="btn primary" type="submit">Connect</button>
+        <p id="login-error" class="error" hidden></p>
+      </form>
+      <details class="help">
+        <summary>How do I create a token?</summary>
+        <ol>
+          <li>GitHub → Settings → Developer settings → Personal access tokens → <b>Fine-grained tokens</b> → Generate new token.</li>
+          <li>Repository access: <b>Only select repositories</b> → choose your site repo.</li>
+          <li>Permissions → Repository permissions → <b>Contents: Read and write</b>. Nothing else is needed.</li>
+          <li>Set an expiry, generate, and paste the token above.</li>
+        </ol>
+        <p class="muted">Use this only on your own device. Sign out when done on a shared computer.</p>
+      </details>
+    </section>
+
+    <!-- Editor -->
+    <section id="editor" hidden>
+      <div class="tabs" id="tabs" role="tablist"></div>
+      <div class="panel">
+        <div class="ed-head">
+          <h2 id="ed-title"></h2>
+          <div class="ed-actions">
+            <button id="btn-add" class="btn ghost sm"><i class="fa-solid fa-plus"></i> Add</button>
+            <button id="btn-save" class="btn primary sm" disabled><i class="fa-solid fa-cloud-arrow-up"></i> Save to GitHub</button>
+          </div>
+        </div>
+        <p id="ed-hint" class="muted"></p>
+        <div id="ed-body"></div>
+        <p id="status" class="status" role="status"></p>
+      </div>
+    </section>
+  </main>
+
+  <dialog id="dlg">
+    <form method="dialog" id="dlg-form" class="form">
+      <h3 id="dlg-title"></h3>
+      <div id="dlg-fields"></div>
+      <div class="dlg-actions">
+        <button type="button" class="btn ghost" id="dlg-cancel">Cancel</button>
+        <button type="submit" class="btn primary">Apply</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="admin.js"></script>
+</body>
+</html>

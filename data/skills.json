@@ -1,0 +1,27 @@
+[
+  {
+    "category": "Programming",
+    "icon": "fa-code",
+    "items": ["Python", "SQL", "Java", "C/C++", "JavaScript", "Dart"]
+  },
+  {
+    "category": "AI / ML",
+    "icon": "fa-brain",
+    "items": ["PyTorch", "TensorFlow", "Hugging Face Transformers", "scikit-learn", "NLP", "Large Language Models", "Multimodal AI", "Retrieval-Augmented Generation"]
+  },
+  {
+    "category": "Data & Retrieval",
+    "icon": "fa-database",
+    "items": ["Pandas", "NumPy", "FAISS", "DuckDB", "MongoDB"]
+  },
+  {
+    "category": "Clinical Informatics",
+    "icon": "fa-notes-medical",
+    "items": ["OMOP CDM", "Clinical terminology / vocabulary mapping"]
+  },
+  {
+    "category": "Tools",
+    "icon": "fa-screwdriver-wrench",
+    "items": ["Linux", "Git", "LaTeX", "VS Code"]
+  }
+]

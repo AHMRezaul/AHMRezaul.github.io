@@ -1,0 +1,120 @@
+[
+  {
+    "title": "MasonNLP at MEDIQA-SYNUR 2026: Retrieval-Augmented Large Language Models for Schema-Constrained Clinical Information Extraction",
+    "authors": "A H M Rezaul Karim, Özlem Uzuner",
+    "venue": "Proceedings of the 8th Workshop on Clinical Natural Language Processing (Clinical NLP) @ LREC 2026, Palma, Mallorca, Spain",
+    "year": "2026",
+    "type": "Workshop",
+    "note": "",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.63317/2xwjn5f2urna"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/AHMRezaul/MEDIQA-SYNUR-2026"
+      }
+    ]
+  },
+  {
+    "title": "Natural Language Processing of Clinical Data",
+    "authors": "Kevin Lybarger, Özlem Uzuner, Giridhar Kaushik Ramachandran, Hadeel Elyazori, Mohammad Sabik Irbaz, A H M Rezaul Karim",
+    "venue": "Springer Handbook of Data Engineering, edited by Fatos Xhafa. Springer, 2026",
+    "year": "2026",
+    "type": "Book Chapter",
+    "note": "",
+    "links": [
+      {
+        "label": "Chapter",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-92372-2_20"
+      },
+      {
+        "label": "Book",
+        "url": "https://link.springer.com/book/10.1007/978-3-031-92372-2"
+      }
+    ]
+  },
+  {
+    "title": "MasonNLP at MEDIQA-WV 2025: Multimodal Retrieval-Augmented Generation with Large Language Models for Medical VQA",
+    "authors": "A H M Rezaul Karim, Özlem Uzuner",
+    "venue": "Proceedings of the 7th Clinical Natural Language Processing Workshop @ ACL 2025",
+    "year": "2025",
+    "type": "Workshop",
+    "note": "",
+    "links": [
+      {
+        "label": "ACL Anthology",
+        "url": "https://aclanthology.org/2025.clinicalnlp-1.10/"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/AHMRezaul/MEDIQA-WV-2025"
+      }
+    ]
+  },
+  {
+    "title": "MasonNLP at MEDIQA-OE 2025: Assessing Large Language Models for Structured Medical Order Extraction",
+    "authors": "A H M Rezaul Karim, Özlem Uzuner",
+    "venue": "Proceedings of the 7th Clinical Natural Language Processing Workshop @ ACL 2025",
+    "year": "2025",
+    "type": "Workshop",
+    "note": "",
+    "links": [
+      {
+        "label": "ACL Anthology",
+        "url": "https://aclanthology.org/2025.clinicalnlp-1.7/"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/AHMRezaul/MEDIQA-OE-2025"
+      }
+    ]
+  },
+  {
+    "title": "Leveraging Machine-Generated Data for Joint Intent Detection and Slot Filling in Bangla: A Resource-Efficient Approach",
+    "authors": "A H M Rezaul Karim, Özlem Uzuner",
+    "venue": "Proceedings of the First Workshop on Challenges in Processing South Asian Languages (CHiPSAL) @ COLING 2025, Abu Dhabi, UAE",
+    "year": "2025",
+    "type": "Workshop",
+    "note": "",
+    "links": [
+      {
+        "label": "ACL Anthology",
+        "url": "https://aclanthology.org/2025.chipsal-1.21/"
+      },
+      {
+        "label": "Code & Data",
+        "url": "https://github.com/AHMRezaul/Joint_IDSF_Bangla"
+      }
+    ]
+  },
+  {
+    "title": "Extending the Frontier of ChatGPT: Code Generation and Debugging",
+    "authors": "Fardin Ahsan Sakib, Saadat Hasan Khan, A H M Rezaul Karim",
+    "venue": "2024 International Conference on Electrical, Computer and Energy Technologies (ICECET), Sydney, Australia. IEEE",
+    "year": "2024",
+    "type": "Conference",
+    "note": "Equal contribution",
+    "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1109/ICECET61485.2024.10698405"
+      }
+    ]
+  },
+  {
+    "title": "Intent Detection and Slot Filling for Home Assistants: Dataset and Analysis for Bangla and Sylheti",
+    "authors": "Fardin Ahsan Sakib, A H M Rezaul Karim, Saadat Hasan Khan, Md Mushfiqur Rahman",
+    "venue": "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023), pages 48–55, Singapore. ACL",
+    "year": "2023",
+    "type": "Workshop",
+    "note": "Equal contribution",
+    "links": [
+      {
+        "label": "ACL Anthology",
+        "url": "https://aclanthology.org/2023.banglalp-1.6/"
+      }
+    ]
+  }
+]

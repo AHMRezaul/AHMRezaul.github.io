@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-08",
+    "text": "Completed my M.S. in Computer Science at George Mason University."
+  },
+  {
+    "date": "2026-05",
+    "text": "Our paper [MasonNLP at MEDIQA-SYNUR 2026](https://doi.org/10.63317/2xwjn5f2urna) appeared at the 8th Clinical NLP Workshop @ LREC 2026."
+  },
+  {
+    "date": "2026",
+    "text": "Serving on the program committee of the [8th Clinical NLP Workshop](https://clinical-nlp.github.io/2026/)."
+  },
+  {
+    "date": "2026",
+    "text": "Book chapter *Natural Language Processing of Clinical Data* to appear in the Springer Handbook of Data Engineering."
+  },
+  {
+    "date": "2025",
+    "text": "Two MEDIQA papers published at the 7th Clinical NLP Workshop @ ACL 2025: [medical VQA](https://aclanthology.org/2025.clinicalnlp-1.10/) and [medical order extraction](https://aclanthology.org/2025.clinicalnlp-1.7/)."
+  },
+  {
+    "date": "2025-01",
+    "text": "Our Bangla intent detection and slot filling paper was presented at [CHiPSAL @ COLING 2025](https://aclanthology.org/2025.chipsal-1.21/) in Abu Dhabi."
+  }
+]

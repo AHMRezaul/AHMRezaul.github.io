@@ -1,0 +1,23 @@
+[
+  {
+    "school": "George Mason University",
+    "degree": "Ph.D. in Computer Science",
+    "period": "Jan 2023 – Present",
+    "location": "Fairfax, VA",
+    "note": "Research on trustworthy Health AI and clinical NLP."
+  },
+  {
+    "school": "George Mason University",
+    "degree": "M.S. in Computer Science",
+    "period": "Aug 2026",
+    "location": "Fairfax, VA",
+    "note": ""
+  },
+  {
+    "school": "Islamic University of Technology",
+    "degree": "B.Sc. in Computer Science and Engineering",
+    "period": "Jan 2017 – Mar 2021",
+    "location": "Gazipur, Bangladesh",
+    "note": ""
+  }
+]

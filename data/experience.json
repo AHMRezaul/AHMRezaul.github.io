@@ -1,0 +1,34 @@
+[
+  {
+    "role": "Graduate Research & Teaching Assistant",
+    "org": "George Mason University",
+    "period": "Jan 2023 – Present",
+    "location": "Fairfax, VA",
+    "points": [
+      "Conduct research on trustworthy Health AI methods for extracting and structuring information from unstructured and multimodal clinical data.",
+      "Develop and evaluate AI-assisted methods for clinical data standardization, interoperability, and EHR-to-OMOP transformation.",
+      "Facilitate laboratory sessions and lectures, and evaluate and grade student assignments and coursework."
+    ]
+  },
+  {
+    "role": "NSF NRT Fellow",
+    "org": "Center for Advancing Systems Science and Bioengineering Innovation (CASSBI)",
+    "period": "Jun 2024 – May 2025",
+    "location": "Fairfax, VA",
+    "points": [
+      "Collaborated with the interdisciplinary iCONNECT team to develop technology for improving community access to mental-health resources.",
+      "Developed cross-platform resource-management and data-visualization tools using community survey and application-use data."
+    ]
+  },
+  {
+    "role": "Software Engineer Intern",
+    "org": "Samsung Research and Development Institute",
+    "period": "Nov 2019 – Jan 2020",
+    "location": "Dhaka, Bangladesh",
+    "points": [
+      "Enhanced and expanded the library of the Android application Samsung Health, and led the integration of multiple APIs.",
+      "Worked with the development team to build and test new features, following best practices.",
+      "Developed automated unit and integration tests, improving reliability and reducing manual testing time."
+    ]
+  }
+]

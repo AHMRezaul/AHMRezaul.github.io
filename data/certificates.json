@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Deep Learning Specialization",
+    "issuer": "DeepLearning.AI (Coursera)",
+    "date": "2021-10",
+    "image": "assets/certs/deeplearning-specialization.jpg",
+    "note": "5 courses: Neural Networks and Deep Learning; Improving Deep Neural Networks; Structuring ML Projects; Convolutional Neural Networks; Sequence Models."
+  },
+  {
+    "title": "Applied Machine Learning in Python",
+    "issuer": "University of Michigan (Coursera)",
+    "date": "2020-09",
+    "image": "assets/certs/umich-applied-ml.jpg",
+    "note": ""
+  },
+  {
+    "title": "Applied Plotting, Charting & Data Representation in Python",
+    "issuer": "University of Michigan (Coursera)",
+    "date": "2020-08",
+    "image": "assets/certs/umich-plotting.jpg",
+    "note": ""
+  },
+  {
+    "title": "Introduction to Data Science in Python",
+    "issuer": "University of Michigan (Coursera)",
+    "date": "2020-07",
+    "image": "assets/certs/umich-intro-data-science.jpg",
+    "note": ""
+  },
+  {
+    "title": "Data Cleaning",
+    "issuer": "Kaggle",
+    "date": "2021-09",
+    "image": "assets/certs/kaggle-data-cleaning.jpg",
+    "note": ""
+  },
+  {
+    "title": "Intro to Machine Learning",
+    "issuer": "Kaggle",
+    "date": "2021-09",
+    "image": "assets/certs/kaggle-intro-ml.jpg",
+    "note": ""
+  }
+]
